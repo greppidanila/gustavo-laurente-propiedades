@@ -1,0 +1,6 @@
+{
+  "name": "Gustavo Laurente Propiedades",
+  "description": "Buscador de propiedades, emprendimientos destacados como el Loteo Residencial Monte Fullana, inversiones y tasaciones en Pergamino y la región.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
